@@ -41,3 +41,8 @@ This C project is to build a game for a single player that plays with the comput
 # Low Level Requirements
 
 <li> USer have to guess the input Sanke(S), Water(W), Gun(G) </li>
+
+# Best Methods
+
+To avoid conclusion 
+
