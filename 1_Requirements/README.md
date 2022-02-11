@@ -13,6 +13,23 @@ This C project is to build a game for a single player that plays with the comput
 
 ![Swot Analysis](https://user-images.githubusercontent.com/98880912/153577257-873e1802-1b72-4d31-89a8-70874431c86e.jpg)
 
+# 4W'S & 1H
+
+# WHO
+  One can be used it as a fun game to in his/her free time.
+  
+# WHAT
+  This idea is used to play with computer.
+  
+# WHEN
+  Whenever the user wants to play.
+  
+# WHY
+  The project uses simple function and compact to work.
+  
+# HOW
+  By implementin multilevel program it can be achieved and this project requires low cost of development.
+
 # High Level Requirements
  
 <li> It consists of the declaration of the variables. </li>
