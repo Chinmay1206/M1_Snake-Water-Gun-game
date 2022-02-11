@@ -8,7 +8,8 @@
 This C project is to build a game for a single player that plays with the computer</li>
 
 #SWOT Analysis
-Swot Analysis
+
+![Swot Analysis](https://user-images.githubusercontent.com/98880912/153577257-873e1802-1b72-4d31-89a8-70874431c86e.jpg)
 
 4W'S & 1H
 WHO
