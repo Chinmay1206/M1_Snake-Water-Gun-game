@@ -9,6 +9,10 @@ Snake Water Gun is one of the famous two-player game played by many people. It i
 
 This C project is to build a game for a single player that plays with the computer
 
+# SWOT Analysis
+
+![Swot Analysis](https://user-images.githubusercontent.com/98880912/153577257-873e1802-1b72-4d31-89a8-70874431c86e.jpg)
+
 # High Level Requirements
  
 <li> It consists of the declaration of the variables. </li>
