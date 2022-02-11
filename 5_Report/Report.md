@@ -11,6 +11,14 @@ This C project is to build a game for a single player that plays with the comput
 
 ![Swot Analysis](https://user-images.githubusercontent.com/98880912/153577257-873e1802-1b72-4d31-89a8-70874431c86e.jpg)
 
+# structural Diagram
+
+![Structural_Daigram](https://user-images.githubusercontent.com/98880912/153591212-c74aadb2-c345-4201-b16b-11e0209606f1.jpg)
+
+# behaviuoral Diagram
+
+![Behavioural_Diagram](https://user-images.githubusercontent.com/98880912/153591364-6c83e92c-e0d5-403f-ae33-de7d68acfa65.jpg)
+
 4W'S & 1H
 WHO
 <li>One can be used it as a fun game to in his/her free time.</li>
@@ -38,3 +46,12 @@ srand() and rand() which are used to generate random numbers in the range [0, RA
 
 # Best Methods
 <li>To avoid conclusion</li>
+
+# code of game
+
+![Screenshot (163)](https://user-images.githubusercontent.com/98880912/153591469-af49a3c3-bae7-4848-a13a-67e82ba50910.png)
+
+#output 
+
+![Screenshot (167)](https://user-images.githubusercontent.com/98880912/153591573-037e3725-214e-4fb2-8e9a-afbc7c7f3734.png)
+
