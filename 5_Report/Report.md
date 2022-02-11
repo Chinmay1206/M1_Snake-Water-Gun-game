@@ -59,4 +59,8 @@ srand() and rand() which are used to generate random numbers in the range [0, RA
 
 ![Test and Output plan](https://user-images.githubusercontent.com/98880912/153591846-5a46ef2e-dc44-4fbd-a72f-c2e100000c00.jpg)
 
+# Best Practices
 
+<li>Checked all the possibilities of output</li>
+<li>Mentioned all the inputs for better understandig</li>
+<li>Presented in tabular form for easy understanding</li>
