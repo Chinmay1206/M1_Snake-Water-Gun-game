@@ -1,4 +1,4 @@
-# M1_projectgoal-game
+# M1_Snake-water-gun-game
 
 # Codacy Badge
 
