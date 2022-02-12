@@ -6,8 +6,8 @@
 
 # Code Grade
 
-https://api.codiga.io/project/31202/status/svg
+![Codiga Badeges](https://api.codiga.io/project/31202/status/svg)
 
 # Code Quality
 
-https://api.codiga.io/project/31202/score/svg
+![Codiga Badeges](https://api.codiga.io/project/31202/score/svg)
