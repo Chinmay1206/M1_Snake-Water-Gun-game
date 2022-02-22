@@ -1,5 +1,5 @@
 PROJ_NAME = Snake_=Water_Gun
-SRC = game.c
+SRC = game.c snakewatergun.c
 
 ifdef OS
    RM = del /q
