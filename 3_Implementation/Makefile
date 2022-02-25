@@ -1,4 +1,4 @@
-PROJ_NAME = Snake_=Water_Gun
+PROJ_NAME = Snake_Water_Gun
 SRC = game.c snakewatergun.c
 
 ifdef OS
