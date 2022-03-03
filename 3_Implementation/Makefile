@@ -28,7 +28,7 @@ run_test : build_test
 staticcheck : 
 	cppcheck --enable=all -iunity .
 
-dynamic_analysis : Build
+dynamic_analysis : build
 	valgrind ./$(call FixPath,$(PROJ_NAME).$(EXEC))
 	
 coverage:
