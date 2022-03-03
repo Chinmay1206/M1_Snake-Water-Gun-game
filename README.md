@@ -31,3 +31,7 @@
 # Dynamic Check
 
 [![Unit Testing -Unity](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/unity.yml/badge.svg)](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/unity.yml)
+
+Build Linux Badge
+
+[![Build-Linux](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/Build-Linux.yml)
