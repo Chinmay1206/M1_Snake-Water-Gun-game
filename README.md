@@ -27,3 +27,7 @@
 # Cpp Check Badge
 
 [![C/C++ CI](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/c-cpp.yml)
+
+# Dynamic Check
+
+[![Unit Testing -Unity](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/unity.yml/badge.svg)](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/unity.yml)
