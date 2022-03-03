@@ -16,10 +16,14 @@
 
 [![Codeac](https://static.codeac.io/badges/2-456197128.svg "Codeac")](https://app.codeac.io/github/Chinmay1206/M1_Snake-Water-Gun-game)
 
-# CPP check
+#  check
 
 [![C/C++ CI](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/c-cpp.yml)
 
 # Unity test
 
 [![Unit Testing -Unity](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/unity.yml/badge.svg)](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/unity.yml)
+
+# Cpp Check Badge
+
+[![C/C++ CI](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Chinmay1206/M1_Snake-Water-Gun-game/actions/workflows/c-cpp.yml)
